@@ -1,0 +1,7 @@
+G:\Git\SynUsed\SynSystemInfo\CpuUsed\bin\Debug\CpuUsed.exe
+G:\Git\SynUsed\SynSystemInfo\CpuUsed\bin\Debug\CpuUsed.pdb
+G:\Git\SynUsed\SynSystemInfo\CpuUsed\obj\Debug\CpuUsed.Form1.resources
+G:\Git\SynUsed\SynSystemInfo\CpuUsed\obj\Debug\CpuUsed.Properties.Resources.resources
+G:\Git\SynUsed\SynSystemInfo\CpuUsed\obj\Debug\CpuUsed.csproj.GenerateResource.Cache
+G:\Git\SynUsed\SynSystemInfo\CpuUsed\obj\Debug\CpuUsed.exe
+G:\Git\SynUsed\SynSystemInfo\CpuUsed\obj\Debug\CpuUsed.pdb
